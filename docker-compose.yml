@@ -2,5 +2,11 @@ version: "3.9"
 services:
   docukit:
     build: .
+    depends_on:
+      - pandoc
   plantuml:
     image: plantuml/plantuml-server:latest
+  pandoc:
+    image: pandoc/latex:latest
+    entrypoint: tail
+    command: -f /dev/null

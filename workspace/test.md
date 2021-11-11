@@ -1,6 +1,11 @@
+---
+title: "Word Test"
+output: word_document
+---
+
 # Test
 
-```puml
+```plantuml
 @startuml
 
 [Client] -> [Server] : Hello
