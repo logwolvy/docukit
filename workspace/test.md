@@ -1,9 +1,10 @@
 ---
-title: "Word Test"
 output: word_document
 ---
 
 # Test
+
+Hello world begins
 
 ```plantuml
 @startuml
@@ -12,3 +13,5 @@ output: word_document
 
 @enduml
 ```
+
+Hello world ends
