@@ -22,7 +22,6 @@ RUN apt-get update \
       --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
-
 # Cleanup
 WORKDIR /
 RUN rm -rf /bin-setup

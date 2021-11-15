@@ -13,4 +13,4 @@ Supports all major platforms, Windows/macOS/Linux running -
 2. Open repo in vscode or `code path/to/cloned/repo` (from terminal)
 3. If not installed already, install recommended extension, i.e. Remote - Containers
 4. Click 'Reopen in Container'
-5. Voila! Opens up `docs` directory, ready to use
+5. Voila! Opens up `docs` directory
