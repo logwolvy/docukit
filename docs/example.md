@@ -1,3 +1,7 @@
+---
+output: word_document
+---
+
 # Example
 
 ## PlantUML
