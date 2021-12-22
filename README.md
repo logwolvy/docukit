@@ -16,7 +16,7 @@ Supports all major platforms (Windows/MacOS/Linux) running -
 2. Open docukit repo in vscode
 3. If not installed already, install the recommended extension, i.e. Remote - Containers
 4. Click 'Reopen in Container'
-5. Voila! You can now create/edit docs in the `docs` directory
+5. Voila! You can now create/edit docs in the `docs` directory. Right click and select "Markdown Preview Enhanced: Open Preview to the Side".
 
 ## Supported Workflows
 #### 1. Env file
