@@ -7,6 +7,7 @@ output: word_document
 ## PlantUML
 ```plantuml
 @startuml
+!theme bluegray
 
 [Client] -> [Server] : Request
 
