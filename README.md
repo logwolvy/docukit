@@ -1,5 +1,5 @@
 # Docukit
-An out-of-box VSCode setup to preview/convert markdown documents.
+VSCode OOBE/setup to preview/convert markdown documents.
 - Live preview of markdown documents in VSCode.
 - Conversion to HTML, PDF, Word (Docx), images and more.
 - No hassle of installing dependencies/libraries.
