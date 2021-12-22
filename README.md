@@ -6,6 +6,8 @@ An out-of-box VSCode setup to preview/convert markdown documents.
 
 It sets up [markdown preview enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) and other dependencies (pandoc, plantuml, imagemagick etc.) using [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) or [Github Codespaces](https://github.com/features/codespaces) for a ready to use document editor/renderer.
 
+![Docukit demo](demo.gif)
+
 ## System Requirements
 Supports all major platforms (Windows/MacOS/Linux) running -
 - VS Code
