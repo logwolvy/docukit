@@ -23,12 +23,16 @@
 	"settings": {
 		"markdown-preview-enhanced.plantumlServer": "http://plantuml:8080/svg/",
 		"markdown-preview-enhanced.previewTheme": "atom-light.css",
-		"markdown-preview-enhanced.puppeteerArgs": ["--no-sandbox"]
+		"markdown-preview-enhanced.puppeteerArgs": ["--no-sandbox"],
+		"plantuml.server": "http://plantuml:8080",
+		"plantuml.render": "PlantUMLServer"
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-		"shd101wyy.markdown-preview-enhanced"
+		"shd101wyy.markdown-preview-enhanced",
+		"jebbs.plantuml",
+		"streetsidesoftware.code-spell-checker"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
